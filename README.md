@@ -14,7 +14,7 @@ The dataset contains aerial images with objects belonging to <strong>6 UAV categ
 1. f450  
 2. helicopter  
 3. hushan  
-4. multi (multi-rotor drones)  
+4. multi  
 5. plane  
 6. phantom  
 
